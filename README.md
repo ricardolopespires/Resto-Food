@@ -11,7 +11,7 @@ Projeto de e-commerce de Restaurante com Delivery. para pessoas que deseja adqui
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/Django" />
     <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/Django" />
                 
-   <img align = right src="https://github.com/ricardolopespires/Ecommerce-Nature/blob/main/Banner-nature-git.png" width = 490/>
+   <img align = right src="https://github.com/ricardolopespires/Resto-Food/blob/main/banner_git.png" width = 490/>
 </p>
 
 
@@ -41,7 +41,8 @@ Projeto de e-commerce de Restaurante com Delivery. para pessoas que deseja adqui
 ## Contribuindo
 
 -----------------------------------------------------
-Se você quiser contribuir, é só abrir um problema e me dizer onde posso melhorar.
+Se você quiser contribuir, fazer um fork.
 Bifurque o repositório e altere o que quiser.
 Os pedidos de pull são sempre bem-vindos.
+seja bem vindo ao projeto
 
